@@ -1,0 +1,43 @@
+*{
+background-image: url(../assets/back1.jpg);
+}
+
+header{
+    display: flex;
+    align-items: baseline;
+}
+div.logo{
+    color: white;
+    display: flex;
+    position:absolute;
+    left: 100px;
+    top: 30px;
+    font-size: x-large;
+}
+div.about{
+    color: white;
+    display: flex;
+    font-size: large;
+    gap: 20px;
+    position: absolute;
+    left: 700px;
+    top: 30px;
+}
+p.p1{
+    display: block;
+    color: white;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    right: 50%;
+    bottom: 50%;
+    font-size: xx-large;   
+}
+div.p1{
+    color: white;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    right: 50%;
+    bottom: 50%;
+}
